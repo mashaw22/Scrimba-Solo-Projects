@@ -1,6 +1,6 @@
 # Scrimba-Solo-Projects
 
-Below is a list of solo projects the I have completed from the Scrimba Frontend Developer Career Path.
+Below is a list of solo projects the I have completed or will be completing from the Scrimba Frontend Developer Career Path.
 
 1. Module 3.2 - Unit Converter
 2. Module 3.4 - Password Generator
